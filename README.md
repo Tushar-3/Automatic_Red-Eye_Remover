@@ -1,5 +1,5 @@
 # Automatic_Red-Eye_Remover
-Automatic-Red-Eye_Remover is an Python project to remove the red color from eye.
+Automatic-Red-Eye_Remover is a Python project to remove the red color from eye.
 
 ## Steps to do
 - Detect Eyes
